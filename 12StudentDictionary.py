@@ -27,7 +27,7 @@ print(student["course"])
 
 # print all keys
 
-print(student.keys)
+print(student.keys()
 
 #to print all key-value pairs
 
@@ -84,5 +84,3 @@ student_copy.update({"marks": 92})
 # to add new key
 student_copy.update({"email": "rahul@gmail.com"})
 
-# Removes a specific key and its value
-student_copy.pop("city")
