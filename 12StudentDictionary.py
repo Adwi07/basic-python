@@ -27,7 +27,11 @@ print(student["course"])
 
 # print all keys
 
-print(student.keys()
+print(student.keys())
+
+# print all values
+
+print(student.values())
 
 #to print all key-value pairs
 
@@ -42,7 +46,7 @@ print(student["marks"])
 
 student["email"] =  "student@gmail.com"
 
-#to add student email
+#to add student phone
 student["phone"] =  6789998212
 
 #to remove city
@@ -75,7 +79,7 @@ print(student_copy.items())
 
 print(student_copy.get("name"))
 
-print(student_copy.get("email")) #here the doesn't exist so it prints, none
+print(student_copy.get("email")) #email exists, so it prints the email
 
 
 # Used to add or modify key-value pairs
@@ -83,4 +87,3 @@ student_copy.update({"marks": 92})
 
 # to add new key
 student_copy.update({"email": "rahul@gmail.com"})
-
