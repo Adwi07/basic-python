@@ -1,0 +1,12 @@
+2026-10-23 03:49:42,690 | INFO     | __main__ | Application started
+2026-10-23 03:49:42,690 | INFO     | LoggingPY.ActivityManager.menu | Application menu started
+2026-10-23 03:50:52,101 | WARNING  | __main__ | Application interrupted by the user
+2026-10-23 03:50:52,102 | INFO     | __main__ | Application shutting down
+2026-10-23 03:50:56,507 | INFO     | __main__ | Application started
+2026-10-23 03:50:56,508 | INFO     | LoggingPY.ActivityManager.menu | Application menu started
+2026-10-23 03:51:04,967 | INFO     | LoggingPY.ActivityManager.auth | User logged in: Adwi
+2026-10-23 03:51:18,555 | DEBUG    | LoggingPY.ActivityManager.calculator | Calculation operands: 2.0 and 3.0
+2026-10-23 03:51:35,354 | INFO     | LoggingPY.ActivityManager.calculator | Calculation completed: multiplication
+2026-10-23 03:51:43,720 | INFO     | LoggingPY.ActivityManager.auth | User logged out: Adwi
+2026-10-23 03:51:43,720 | INFO     | LoggingPY.ActivityManager.menu | Application menu stopped
+2026-10-23 03:51:43,720 | INFO     | __main__ | Application shutting down
